@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kakaocloud", {data:[{}],fetch:{},mutations:[]});
